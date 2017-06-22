@@ -1,0 +1,1 @@
+c:\users\magno\documents\visual studio 2013\Projects\ChatZero\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
